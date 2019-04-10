@@ -1,2 +1,0 @@
-# gokulincofny.github.io
-website
